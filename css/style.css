@@ -1167,7 +1167,6 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0;
-  padding-top: 100px;
    }
 
 .customlogo {
@@ -1178,4 +1177,8 @@ input[type="text"] {
     margin-left: auto;
     margin-right: auto;
     /* Other styles here */
+}
+
+.padclass {
+  padding-top: 100px;
 }
